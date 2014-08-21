@@ -1,9 +1,9 @@
 {
-    "name": "flim/phpflow",
+    "name": "duellsy/phpflow",
     "description": "PHP Library for Flowdock API usage",
     "keywords": ["flowdock","api", "php"],
     "license": "MIT",
-    "homepage": "http://github.com/flim/phpflow",
+    "homepage": "http://github.com/duellsy/phpflow",
     "require": {
         "php": ">=5.3.0"
     },
